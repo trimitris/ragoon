@@ -43,6 +43,8 @@ Features:
 - 📝 Log results for experiment tracking and evaluation.
 - ...and more!
 
+## Demo
+<video src="https://ragoon-dev.github.io/walkthrough.mp4" width="320" height="240" controls></video>
 
 ## How to get started
 
