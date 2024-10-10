@@ -44,7 +44,8 @@ Features:
 - ...and more!
 
 ## Demo
-<video src="https://ragoon-dev.github.io/walkthrough.mp4" width="320" height="240" controls></video>
+
+https://github.com/user-attachments/assets/3e086bac-d2fb-4d9b-8f1b-57dc1bab9ff8
 
 ## How to get started
 
